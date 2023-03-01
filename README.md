@@ -1,4 +1,4 @@
-# 주사위를 랜덤으로 돌리는 프로그램
+# Clima
 
 
 ### 사용기능 📱
@@ -11,4 +11,4 @@
 ----
 실행영상
 
-<img src = "https://user-images.githubusercontent.com/112225610/222104890-f809c69c-4048-4ccd-afed-3e2c9ca5ae03.gif" width = "30%" height = "50%">
+<img src = "https://user-images.githubusercontent.com/112225610/222130079-7f5504f1-27bc-4c0d-b9bb-84bbd8712ce9.gif" width = "30%" height = "50%">
